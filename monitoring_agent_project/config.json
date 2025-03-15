@@ -1,0 +1,19 @@
+{
+    "companyName": "Example Corp",
+    "searchKeywords": ["Example Corp", "示例公司"],
+    "websites": {
+        "toutiao": "https://www.toutiao.com",
+        "baidu": "https://www.baidu.com",
+        "google": "https://www.google.com",
+        "douyin": "https://www.douyin.com",
+        "xiaohongshu": "https://www.xiaohongshu.com"
+    },
+    "pollingInterval": 30,
+    "openai_api_key": "your-api-key-here",
+    "proxy": {
+        "http": "",
+        "https": ""
+    },
+    "timeout": 30,
+    "retries": 3
+}
